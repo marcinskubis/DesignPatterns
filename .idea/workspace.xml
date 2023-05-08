@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c18d568d-215e-417b-9ac8-dff78448f9a2" name="Changes" comment="Iterator">
-      <change afterPath="$PROJECT_DIR$/Decorator/Decorator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorator/src/ClubbedTroll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorator/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorator/src/SimpleTroll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorator/src/Troll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singleton/Singleton.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singleton/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singleton/src/Singleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -54,6 +52,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "17",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.general"
   }
 }]]></component>
